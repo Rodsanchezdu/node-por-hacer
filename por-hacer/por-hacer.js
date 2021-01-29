@@ -90,6 +90,7 @@ const borrar = (descripcion) => {
 
 };
 
+//comentario aparentemente inúti, borrar
 
 module.exports = {
     crearUnPorHacer,
